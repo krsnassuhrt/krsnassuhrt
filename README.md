@@ -1,4 +1,12 @@
 ## Hi there 👋
+# 👋 Hi, I'm Sajjan Mali
+🎓 CSE @ IIIT Manipur  | 💻 Full-Stack & DSA Learner  | 🚀 Future Founder
+
+
+- 🌱 Learning DevOps & System Design
+- 👯 Open to internships & collaborations
+- 🧠 Goals 2026: 500 LeetCode problems | 3 Deployed Projects | Internship Offer
+- 📫 Reach me: [LinkedIn](your-linkedin-url) | [Email](mailto:your-email)
 
 <!--
 **krsnassuhrt/krsnassuhrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
