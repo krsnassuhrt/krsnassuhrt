@@ -6,7 +6,7 @@
 - 🌱 Learning DevOps & System Design
 - 👯 Open to internships & collaborations
 - 🧠 Goals 2026: 500 LeetCode problems | 3 Deployed Projects | Internship Offer
-- 📫 Reach me: [LinkedIn](your-linkedin-url) | [Email](mailto:your-email)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sajjan-mali-a59349289) | [Email](mailto:sajjan24019@gmail.com)
 
 <!--
 **krsnassuhrt/krsnassuhrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
