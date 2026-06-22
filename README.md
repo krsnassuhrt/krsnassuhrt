@@ -42,9 +42,9 @@ Tool that analyzes resumes against job descriptions and provides relevance insig
 
 ### Connect With Me
 
-* GitHub: github.com/krsnassuhrt
-* LinkedIn: linkedin.com/in/sajjan-mali-a59349289
-* LeetCode: leetcode.com/u/sajjan2407/
+* GitHub: [github.com/krsnassuhrt](https://github.com/krsnassuhrt)
+* LinkedIn:[ [www.linkedin.com/in/sajjan-mali-a59349289]](https://www.linkedin.com/in/sajjan-mali-a59349289/)
+* LeetCode: [leetcode.com/u/sajjan2407/](https://leetcode.com/u/sajjan2407/)
 * Email: [mali240101003@iiitmanipur.ac.in](mailto:mali240101003@iiitmanipur.ac.in)
 
 ---
