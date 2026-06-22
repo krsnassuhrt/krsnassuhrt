@@ -1,24 +1,52 @@
-## Hi there 👋
-# 👋 Hi, I'm Sajjan Mali
-🎓 CSE @ IIIT Manipur  | 💻 Full-Stack & DSA Learner  | 🚀 Future Founder
+# Hi there 👋
 
+## I'm Sajjan Mali
 
-- 🌱 Learning DevOps & System Design
-- 👯 Open to internships & collaborations
-- 🧠 Goals 2026: 500 LeetCode problems | 3 Deployed Projects | Internship Offer
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sajjan-mali-a59349289) | [Email](mailto:sajjan24019@gmail.com)
+🎓 B.Tech in Computer Science & Engineering @ IIIT Manipur
 
-<!--
-**krsnassuhrt/krsnassuhrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering | Data Structures & Algorithms | AI Applications
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🚀 Building projects that combine software engineering, data, and AI
+* 📚 Actively strengthening DSA, DBMS, Operating Systems, and Computer Networks
+* 🔍 Interested in Distributed Systems, Backend Engineering, and Scalable Applications
+* 🤝 Open to internships, collaborations, and open-source contributions
+
+### Highlights
+
+* 🧠 Solved 255+ problems on LeetCode
+* 🌍 Built **DRISHTI**, an AI-driven Air Quality Monitoring & Forecasting System
+* ⚡ Consistently improving problem-solving through coding contests and daily practice
+* 📈 Currently exploring System Design, DevOps, and Cloud Technologies
+
+### Tech Stack
+
+**Languages:** C++, Python, JavaScript, TypeScript
+
+**Web Development:** React, Node.js, Express.js, HTML, CSS
+
+**Databases:** MySQL, MongoDB
+
+**Tools & Platforms:** Git, GitHub, Linux, Streamlit
+
+### Featured Projects
+
+#### DRISHTI – Air Quality Forecasting System
+
+AI-driven platform integrating satellite, weather, and ground-level pollution data to forecast air quality trends.
+
+#### Resume Analyzer
+
+Tool that analyzes resumes against job descriptions and provides relevance insights.
+
+### Connect With Me
+
+* GitHub: github.com/krsnassuhrt
+* LinkedIn: linkedin.com/in/sajjan-mali-a59349289
+* LeetCode: leetcode.com/u/sajjan2407/
+* Email: [mali240101003@iiitmanipur.ac.in](mailto:mali240101003@iiitmanipur.ac.in)
+
+---
+
+*"Learning, building, and improving one step at a time."*
